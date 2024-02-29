@@ -1,0 +1,1 @@
+"Es el encargado de definir lo que se requiere para cumplir la interoperabilidad, y asi generar que emerja un mercado más grande" (Tanenbaum Andrew S. Wetherall David J. Redes de computadoras, Pearson Educación, 2012, p.65). Es decir que es la encargada de coordinar y establecer un sistema de instalación y comunicación entre un conjunto de computadoras

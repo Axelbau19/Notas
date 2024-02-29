@@ -1,0 +1,1 @@
+La capacidad de las aplicaciones y los sistemas para intercambiar datos de forma segura y automática, independientemente de los límites geográficos, políticos u organizativos.(Amazon,https://aws.amazon.com/es/what-is/interoperability/,recuperada en el 2024)

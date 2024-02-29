@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "f44ba6631811600f",
+    "type": "split",
+    "children": [
+      {
+        "id": "69ed871f208646ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3468e9e0b819765a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ingenieria de Pruebas/Apuntes/Sin título 1.canvas",
+                "viewState": {
+                  "x": 325,
+                  "y": -90,
+                  "zoom": -0.6065853124209516
+                }
+              }
+            }
+          },
+          {
+            "id": "d14d3137c9b3e766",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ingenieria de Pruebas/Apuntes/SDLC.canvas",
+                "viewState": {
+                  "x": 1238.6017144922014,
+                  "y": 494.9702297508504,
+                  "zoom": -0.2818674547640288
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bb4f0231f14ef0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf7360c61f6c2be8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99792821ef8eaff6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcce9b6024993445",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c08fd9a2e8cb7e51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d68e77f8ed2d14e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4acc338a7c886b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ecd00a8d160c392",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ingenieria de Pruebas/Apuntes/Sin título 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ac9c043de0ac0ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ingenieria de Pruebas/Apuntes/Sin título 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1d377414d90e4bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a74520ac3bc522ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ingenieria de Pruebas/Apuntes/Sin título 1.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3468e9e0b819765a",
+  "lastOpenFiles": [
+    "Redes y conectividad/Apuntes/28 Febrero 2024.md",
+    "Ingenieria de Pruebas/Apuntes/SDLC.canvas",
+    "Ingenieria de Pruebas/Apuntes/Sin título 1.canvas",
+    "Ingenieria de Pruebas/Apuntes/Sin título.md",
+    "Ingenieria de Pruebas/Apuntes/20 Febrero 2024.md",
+    "Redes y conectividad/Apuntes/Recapitulación de Redes.md",
+    "Redes y conectividad/Apuntes/Sistema de cableado estructurado.md",
+    "Redes y conectividad/Apuntes/21 Feb 2024.md",
+    "Redes y conectividad/Tareas/Tipos de estándares(Jure, Facto, Propetario).md",
+    "Redes y conectividad/Tareas/Definición de estandar.md",
+    "Ingenieria de conocimiento/23 Febrero 2024.md",
+    "Ingenieria de conocimiento/22 Feb 2024.md",
+    "Redes y conectividad/Tareas/Definición de Red de computo.md",
+    "Redes y conectividad/Tareas/Organismo estandarizadores de entornos de red.md",
+    "Redes y modelo simulacion/Redes y simulación.canvas",
+    "Redes y conectividad/Definición de interoperabilidad.md",
+    "Ingenieria de conocimiento",
+    "Redes y modelo simulacion/Cómo lo hacen los profesionales interdiciplinaria.md",
+    "Redes y modelo simulacion",
+    "Sin título.md",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering/Pasted image 20240219143705.png",
+    "Ingenieria de Pruebas/Apuntes",
+    "Sin título 1.md",
+    "Redes y conectividad/Tareas/Sin título",
+    "Redes y conectividad/Apuntes",
+    "Redes y conectividad/Tareas",
+    "Redes y conectividad",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering/24.2 Estandarización del software.md",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering/24.1 Calidad de software.md",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering/24. Control de calidad.md",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering/24.4 Gestión de calidad y desarrollo ágil..md",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering/24.3 Reseña y inspeccionar software.md",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering/grafico.canvas",
+    "grafico.md",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering/grafico.md",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering/24.5 Métrica de software.md",
+    "Ingenieria de Pruebas/Capitulo 24 - Software Engineering",
+    "Welcome.md",
+    "Ingenieria de Pruebas"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"c74e672d2485364e","x":160,"y":-20,"width":250,"height":60,"type":"text","text":""},
+		{"id":"22b59ddab83817a8","type":"text","text":"Metodologías ","x":-500,"y":-120,"width":250,"height":60},
+		{"id":"53599c8cac9cd94e","type":"text","text":"Metodologías estructuradas","x":-180,"y":-280,"width":250,"height":60},
+		{"id":"28533527b634d82a","type":"text","text":"Desarollo por cascada","x":160,"y":-340,"width":250,"height":60},
+		{"id":"0d05885e23130033","type":"text","text":"Desarollo por paralelo","x":160,"y":-250,"width":250,"height":60},
+		{"id":"372503c6946011ee","type":"text","text":"En la fase de \"análisis\" se aborda los problemas de mayor tiempo, en vez del diseño, ademas de que apartir de un diseño general, se divide en subdiseños","x":460,"y":-190,"width":340,"height":90},
+		{"id":"133bef5a2c0a395e","type":"text","text":"el diseño debe estar completamente especificado antes de que comience la programación","x":460,"y":-460,"width":340,"height":90},
+		{"id":"6f1df39793b5ac9e","type":"text","text":"Para sistemas complejos y rentables","x":880,"y":-445,"width":250,"height":60},
+		{"id":"034b7941b2ecedff","type":"text","text":"Sistemas complejos, rentables, en poco tiempo","x":900,"y":-175,"width":250,"height":60},
+		{"id":"91f35101ddb6f956","type":"text","text":"RAD Metologías(Desarollo de aplicaciones rapido)","x":-180,"y":80,"width":250,"height":60},
+		{"id":"1fc1900dfc0c440e","type":"text","text":"Metologías ágiles","x":-180,"y":220,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e907e629c897ae2d","fromNode":"22b59ddab83817a8","fromSide":"right","toNode":"53599c8cac9cd94e","toSide":"left"},
+		{"id":"673f1f678b97e82d","fromNode":"22b59ddab83817a8","fromSide":"right","toNode":"91f35101ddb6f956","toSide":"left"},
+		{"id":"069853e7ae88a511","fromNode":"22b59ddab83817a8","fromSide":"right","toNode":"1fc1900dfc0c440e","toSide":"left"},
+		{"id":"c499b8d891d057e5","fromNode":"53599c8cac9cd94e","fromSide":"right","toNode":"28533527b634d82a","toSide":"left"},
+		{"id":"df89dc68d529b941","fromNode":"53599c8cac9cd94e","fromSide":"right","toNode":"0d05885e23130033","toSide":"left"},
+		{"id":"5a3be6fbea99783f","fromNode":"28533527b634d82a","fromSide":"right","toNode":"133bef5a2c0a395e","toSide":"left"},
+		{"id":"f9be3834973e4d6b","fromNode":"133bef5a2c0a395e","fromSide":"right","toNode":"6f1df39793b5ac9e","toSide":"left"},
+		{"id":"a7d0ec1dd1323dba","fromNode":"0d05885e23130033","fromSide":"right","toNode":"372503c6946011ee","toSide":"left"},
+		{"id":"0be07329f13e898b","fromNode":"372503c6946011ee","fromSide":"right","toNode":"034b7941b2ecedff","toSide":"left"}
+	]
+}
